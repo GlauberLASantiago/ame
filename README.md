@@ -69,4 +69,4 @@ Para visualizar o projeto em funcionamento, você pode utilizar o **GitHub Pages
 3. Clique em **Save**. Em instantes, o site estará disponível no link fornecido pelo GitHub.
 
 ---
-*© 2024 Aprimora Música & Eventos — Metodologia adaptada para o segmento de eventos.*
+*© 2026 Aprimora Música & Eventos — Metodologia adaptada para o segmento de eventos.*
